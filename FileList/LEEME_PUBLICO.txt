@@ -1,0 +1,16 @@
+OSCURODIAMANTE 99B+ — CLIENTE PÚBLICO CON ACTUALIZADOR
+
+Instalación
+1. Descarga y extrae todo el ZIP en una carpeta nueva. No mezcles sus archivos con otra instalación de MU Online.
+2. Conserva la estructura completa de la carpeta Data.
+3. Ejecuta Launcher.exe (también puedes iniciar Jugar.cmd). El launcher comprueba el feed de actualizaciones firmado y abre el cliente cuando está listo.
+
+Actualizaciones
+El launcher y el actualizador usan un manifiesto firmado con RSA y descargado por HTTPS desde el repositorio oficial de OscuroDiamante. El cliente no requiere instalar el launcher en una subcarpeta.
+
+Conexión
+ConnectServer: 186.182.184.21:44415/TCP
+GameServer: la dirección y el puerto son anunciados por ConnectServer.
+Versión del cliente: 0.99.28.
+
+El acceso requiere que el servidor esté disponible. La conexión desde una red externa debe validarse desde esa red.

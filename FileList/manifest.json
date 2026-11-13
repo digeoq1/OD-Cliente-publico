@@ -1,0 +1,17 @@
+{
+  "package": "OscuroDiamante 99B+ - Cliente publico con actualizador",
+  "source": "Distribucion publica OscuroDiamante",
+  "profile": "Public",
+  "connectServer": "186.182.184.21:44415/TCP",
+  "gameServer": "186.182.184.21:45900/TCP",
+  "mainExeSHA256": "72D6C9F5C9175C613747211A870AFBD5026D3E6C97E61E5BF2B13EDFD74B846A",
+  "mainDllSHA256": "2E10436B308AE9186777D1A8BB9EE5466E637416E5FF55914F00697D8A354226",
+  "serverInfoSHA256": "6813D5394A3D4DD6FD7BD3FD9FF47D99E1853470BD45E06ED6D589BC76C1B2F4",
+  "fileCount": 6948,
+  "bytes": 855080195,
+  "launch": "Launcher.exe",
+  "launcherIncluded": true,
+  "runtimeTest": "Launcher compilado y manifiesto firmado verificado localmente; lanzamiento y actualizacion en linea pendientes de prueba manual",
+  "serverAllowlistUpdateRequired": false,
+  "serverAllowlistConfigSHA256": "8E896EADA26A3D3E5081F8676DB59C9EC82979F052FFB1F326AC5E626BBCC47B"
+}
